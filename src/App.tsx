@@ -4,7 +4,7 @@ import { QuestionInput } from "./components/Input";
 import { checkSolved, generateTable } from "./util/generateTable";
 import Toast from "./components/Toast";
 import { isNumeric } from "./util";
-import { Modal } from "./components/modal";
+import { Modal } from "./components/CustomModal";
 
 const row = 5;
 const column = 5;
